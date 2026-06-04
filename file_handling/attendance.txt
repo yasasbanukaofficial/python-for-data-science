@@ -1,0 +1,10 @@
+Alice,28
+Bob,24
+Charlie,18
+Diana,30
+Eve,27
+Frank,12
+Grace,20
+Heidi,29
+Ivan,15
+Judy,9
